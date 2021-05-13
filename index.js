@@ -1,0 +1,1 @@
+module.exports.tictactoe = require('./src/data/tictactoe');
